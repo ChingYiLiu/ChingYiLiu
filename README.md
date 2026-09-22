@@ -9,4 +9,4 @@ I build practical, data-driven applications—from well-structured APIs and auto
 - **Backend & APIs:** Python, FastAPI
 - **Data:** SQLite, PostgreSQL, external API integration, caching
 - **AI Applications:** LLM integration, embeddings, retrieval workflows, rule-based decision systems
-- **Delivery:** Docker, GitHub Actions, Google Cloud Run, automated testing with pytest
+- **Delivery:** Docker, GitLab pipeline, automated testing with pytest
